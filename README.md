@@ -3,7 +3,7 @@
 
 # This is a Resturent System
 
-- you acan buy items
+- you can buy items
 - choice items
 - pay them
 - get a bil & balance
